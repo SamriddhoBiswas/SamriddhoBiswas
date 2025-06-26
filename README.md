@@ -2,7 +2,14 @@
   <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
 
+<h2 align="center">Hi 👋, I'm [Your Name]!</h2>
+<p align="center">
+  🚀 Passionate Developer | 💡 Lifelong Learner | 🎮 Game Dev Enthusiast
+</p>
 
+---
+
+## 🧰 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
