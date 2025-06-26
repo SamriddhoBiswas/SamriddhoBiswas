@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
+  <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400" height="200"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm [Your Name]!</h2>
@@ -10,18 +10,20 @@
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,express,flask,mongodb,postgresql" />
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,vite,docker,latex,ai" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,express,flask,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,vite,docker,latex,ai" />
+  </a>
+</div>
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBisw&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
