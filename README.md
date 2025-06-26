@@ -2,14 +2,10 @@
   <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
 
-<h2 align="center">Hi 👋, I'm [Your Name]!</h2>
-<p align="center">
-  🚀 Passionate Developer | 💡 Lifelong Learner | 🎮 Game Dev Enthusiast
-</p>
+<h2 align="center">Full Stack Web Developer | AI/ML and Data Science Enthusiast</h2>
+
 
 ---
-
-## 🧰 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
@@ -23,7 +19,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBisw&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
