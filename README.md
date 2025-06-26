@@ -22,8 +22,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" height="200" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" height="190" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" height="190" alt="Top Languages"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SamriddhoBiswas&theme=blueberry&hide_border=false" height="250" alt="GitHub Streak"/>
 </div>
@@ -40,7 +40,6 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub Logo" />
   </a>
 
-    <!-- Instagram -->
   <a href="https://www.instagram.com/iamsammy09/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
   </a>
