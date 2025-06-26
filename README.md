@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Samriddho Biswas
 <p align="center">
-  <img src="https://i.imgur.com/NMFwDAC.png" alt="Your Name!" width="400"/>
+  <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm [Your Name]!</h2>
