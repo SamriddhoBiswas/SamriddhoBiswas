@@ -2,10 +2,9 @@
   <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
 <p align="center">
-  <h2 align="center">🎓 B.Tech CSE @ IIIT Kalyani • 💻 Full Stack Developer • 🤖 AI/ML Explorer • ⚙️ Building Smart Solutions</h2>
+  <h2 align="center">💻 Full Stack Developer • 🤖 AI/ML Explorer • ⚙️ Building Smart Solutions</h2>
 </p>
 
----
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
