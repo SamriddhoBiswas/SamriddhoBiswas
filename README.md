@@ -6,6 +6,7 @@
 </p>
 
 <div align="center">
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,express,flask,mongodb,postgresql" />
@@ -22,23 +23,26 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" height="250" alt="Top Languages"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SamriddhoBiswas&theme=blue_navy&hide_border=false" height="250" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SamriddhoBiswas&theme=blueberry&hide_border=false" height="250" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🌐 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
-</p>
+###
+
+
+<div align="left">
+  <a href="https://www.instagram.com/iamsammy927/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/samriddho-biswas-8907a32a2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 
 
-🎓 I'm currently pursuing B.Tech in CSE from IIIT Kalyani.  
-💡 Passionate about solving real-world problems using AI/ML & Full Stack Development.  
-🛠️ Working on AI-driven learning platforms and creative web apps.
