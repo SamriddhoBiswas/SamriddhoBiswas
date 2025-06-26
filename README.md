@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Samriddho Biswas
 <p align="center">
   <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
@@ -12,25 +11,28 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/unreal-engine.png" alt="Unreal Engine"/>
-  <img src="https://img.icons8.com/ios-filled/50/unity.png" alt="Unity"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OpenGL_logo.png" alt="OpenGL" width="48"/>
-  <img src="https://cmake.org/wp-content/uploads/2018/03/CMake-logo-300.png" alt="CMake" width="48"/>
-</p>
+### 🧠 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss" />
+<img src="https://img.icons8.com/color/48/000000/shadcn.png" alt="Shadcn UI" width="48"/>
+
+### 🔧 Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-neon-the-serverless-postgresql-platform-logo-shadow-tal-revivo.png" alt="NeonDB" width="48"/>
+
+### ⚙️ Tools & Frameworks
+<img src="https://skillicons.dev/icons?i=git,vercel" />
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-clerk-authentication-and-user-management-solution-logo-shadow-tal-revivo.png" alt="Clerk" width="48"/>
+<img src="https://img.icons8.com/color/48/google-gemini.png" alt="Gemini AI" width="48"/>
+<img src="https://skillicons.dev/icons?i=prisma" />
+
+### 🔄 Full Stack Development
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,prisma" />
 
 ---
 
