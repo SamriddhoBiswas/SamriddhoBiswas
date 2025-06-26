@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400" height="200"/>
+  <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm [Your Name]!</h2>
