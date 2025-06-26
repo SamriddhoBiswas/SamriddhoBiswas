@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Samriddho Biswas
-<p align="center"><a href="https://github.com/SamriddhoBiswas"><img width="50%" alt="Hello, I'm Samriddho! I love coding!" src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/assets/110734724/435689f3-b962-4e64-9e66-48de979d2494" /></a></p>
+<p align="center"><a href="https://github.com/SamriddhoBiswas"><img width="50%" alt="Hello, I'm Samriddho! I love coding!" src="https://r73.cooltext.com/rendered/cooltext485366195898825.png" /></a></p>
 
 🎓 I'm currently pursuing B.Tech in CSE from IIIT Kalyani.  
 💡 Passionate about solving real-world problems using AI/ML & Full Stack Development.  
