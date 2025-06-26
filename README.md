@@ -1,13 +1,8 @@
 <p align="center">
   <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
-
 <p align="center">
-  🎓 B.Tech CSE @ IIIT Kalyani • 💻 Full Stack Developer • 🤖 AI/ML Explorer • ⚙️ Building Smart Solutions
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamriddhoBiswas&style=flat-square&color=blue" alt="Profile views"/>
+  <h2 align="center">🎓 B.Tech CSE @ IIIT Kalyani • 💻 Full Stack Developer • 🤖 AI/ML Explorer • ⚙️ Building Smart Solutions</h2>
 </p>
 
 ---
@@ -20,7 +15,10 @@
 </div>
 ---
 
-## 📈 GitHub Stats
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SamriddhoBiswas&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -42,5 +40,3 @@
 🎓 I'm currently pursuing B.Tech in CSE from IIIT Kalyani.  
 💡 Passionate about solving real-world problems using AI/ML & Full Stack Development.  
 🛠️ Working on AI-driven learning platforms and creative web apps.
-
-
