@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Samriddho Biswas
 
-<!--
-**SamriddhoBiswas/SamriddhoBiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing B.Tech in CSE from IIIT Kalyani.  
+💡 Passionate about solving real-world problems using AI/ML & Full Stack Development.  
+🛠️ Working on AI-driven learning platforms and creative web apps.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 💻 Languages: Python, JavaScript, C++
+- 🌐 Web: HTML, CSS, React.js, Node.js, Flask, Next.js
+- 🔍 AI/ML: TensorFlow, PyTorch, Scikit-learn, OpenCV
+- 🧠 GenAI: LangChain, RAG, AI Agents
+- 🛢️ Databases: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Samriddho's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddho123&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)
+- [Portfolio](https://your-website.com)
+- 📫 Email: your.email@example.com
+
+
