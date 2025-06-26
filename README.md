@@ -10,37 +10,18 @@
 ---
 
 ## 🧰 Tech Stack
-
-### 🧠 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
-
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss" />
-<img src="https://img.icons8.com/color/48/000000/shadcn.png" alt="Shadcn UI" width="48"/>
-
-### 🔧 Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-neon-the-serverless-postgresql-platform-logo-shadow-tal-revivo.png" alt="NeonDB" width="48"/>
-
-### ⚙️ Tools & Frameworks
-<img src="https://skillicons.dev/icons?i=git,vercel" />
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-clerk-authentication-and-user-management-solution-logo-shadow-tal-revivo.png" alt="Clerk" width="48"/>
-<img src="https://img.icons8.com/color/48/google-gemini.png" alt="Gemini AI" width="48"/>
-<img src="https://skillicons.dev/icons?i=prisma" />
-
-### 🔄 Full Stack Development
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,prisma" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,ts,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,express,flask,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,vite,docker,latex,ai" />
+</p>
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
