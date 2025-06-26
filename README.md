@@ -2,8 +2,13 @@
   <img src="https://github.com/SamriddhoBiswas/SamriddhoBiswas/blob/main/assets/name.gif?raw=true" alt="Samriddho Biswas" width="400"/>
 </p>
 
-<h2 align="center">Full Stack Web Developer | AI/ML and Data Science Enthusiast</h2>
+<p align="center">
+  🎓 B.Tech CSE @ IIIT Kalyani • 💻 Full Stack Developer • 🤖 AI/ML Explorer • ⚙️ Building Smart Solutions
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamriddhoBiswas&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 ---
 <div align="center">
@@ -37,20 +42,5 @@
 🎓 I'm currently pursuing B.Tech in CSE from IIIT Kalyani.  
 💡 Passionate about solving real-world problems using AI/ML & Full Stack Development.  
 🛠️ Working on AI-driven learning platforms and creative web apps.
-
-## 🚀 Tech Stack
-- 💻 Languages: Python, JavaScript, C++
-- 🌐 Web: HTML, CSS, React.js, Node.js, Flask, Next.js
-- 🔍 AI/ML: TensorFlow, PyTorch, Scikit-learn, OpenCV
-- 🧠 GenAI: LangChain, RAG, AI Agents
-- 🛢️ Databases: MySQL, MongoDB
-
-## 📊 GitHub Stats
-![Samriddho's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddho123&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)
-- [Portfolio](https://your-website.com)
-- 📫 Email: your.email@example.com
 
 
