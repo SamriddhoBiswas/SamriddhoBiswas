@@ -19,13 +19,13 @@
 </p>
 
 
-<p align="center">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamriddhoBiswas&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SamriddhoBiswas&theme=blue_navy&hide_border=false" height="250" alt="GitHub Streak"/>
+</div>
 
 ---
 
