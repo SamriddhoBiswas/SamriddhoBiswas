@@ -25,11 +25,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" height="190" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" height="190" alt="Top Languages"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SamriddhoBiswas&theme=blueberry&hide_border=false" height="250" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SamriddhoBiswas&theme=blueberry&hide_border=false" height="230" alt="GitHub Streak"/>
 </div>
 
 
 <div align="center">
+<br/>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/samriddho-biswas-8907a32a2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
