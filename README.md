@@ -4,11 +4,13 @@
 <p align="center">
   <h2 align="center">💻 Full Stack Developer • 🤖 AI/ML Explorer • ⚙️ Building Smart Solutions</h2>
 </p>
+<!--
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=700&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Fast+Learner" alt="Typing SVG" />
   </a>
 </div>
+-->
 
 <div align="center">
   <br/>
