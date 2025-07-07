@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamriddhoBiswas&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" height="200" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamriddhoBiswas&layout=compact&theme=tokyonight" height="205" alt="Top Languages"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SamriddhoBiswas&theme=blueberry&hide_border=false" height="230" alt="GitHub Streak"/>
 </div>
