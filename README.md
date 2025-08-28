@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+and+Python+Developer;Machine+Learning+and+AI+Enthusiast;Competitive+Programmer+and+Solving+DSA;Always+Learning+New+Technology" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+and+Python+Developer;Machine+Learning+and+AI+Enthusiast;Competitive+Programmer,+Solving+DSA;Always+Learning,+Building+Projects" alt="Typing SVG"/>
 </div>
 <!--
 <div align="center">
