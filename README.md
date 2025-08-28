@@ -4,6 +4,10 @@
 <p align="center">
   <h2 align="center">💻 Full Stack Developer • 🤖 AI/ML Enthusiast • ⚙️ Building Smart Solutions</h2>
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;AI/ML+Enthusiast;Competitive+Programmer;Always+Learning+New+Technology" alt="Typing SVG"/>
+</div>
 <!--
 <div align="center">
   <a href="https://git.io/typing-svg">
